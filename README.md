@@ -51,7 +51,13 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 
 
 ## STM 32 CUBE PROGRAM :
+
 ```
+NAME: JAYASRI DODDA
+REGISTER NO: 212222240028
+DEPT: ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+
+
 #include "main.h"
 #include"stdbool.h"
 bool buttonstatus;
@@ -158,8 +164,13 @@ else
 ```
 
 ## Output  :
- 
- 
+OFF MODE:
+![off](https://github.com/jayasridodda/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/123259278/3d1c4f52-fd58-43f2-8ec3-9137b8629d21)
+
+ON MODE:
+![on](https://github.com/jayasridodda/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/123259278/beb8c591-ffb5-45f2-b403-63a4ee0773f9)
+
+
  
  
 ## Result :
